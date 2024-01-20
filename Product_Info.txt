@@ -1,0 +1,4 @@
+Product ID = 111
+Product Name = abc
+Product Price = 200
+Product Quantity = 10
